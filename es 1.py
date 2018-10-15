@@ -8,7 +8,7 @@ operatore2 = int (b)
 def sot(a, b):
     return(a - b)
 
-r = print("il risultato è :" + str(som2(operatore1,operatore2)))
+r = print("il risultato è :" + str(sot(operatore1,operatore2)))
 
 
 
